@@ -1,0 +1,5 @@
+Credentials cache: API:17015
+        Principal: lmacheru@42.FR
+
+  Issued                Expires               Principal
+Feb  1 08:43:01 2016  Feb  1 18:43:00 2016  krbtgt/42.FR@42.FR
